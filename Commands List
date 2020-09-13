@@ -1,0 +1,50 @@
+div
+span
+form
+h1
+h2
+h3
+h4
+h5
+h6
+p
+strong
+code
+marquee
+i
+b
+small
+s
+sub
+sup
+kbd
+add img imageurl.png
+add video videourl.mp4
+add audio audiourl.mp3
+add script scripturl.js
+add style stylesheeturl.css
+add input input_type input_value
+add a a_hyperlink
+add link link_hyperlink
+end div
+end span
+end form
+end h1
+end h2
+end h3
+end h4
+end h5
+end h6
+end p
+end strong
+end code
+end marquee
+end i
+end b
+end small
+end s
+end sub
+end sup
+end kbd
+end a
+end link
